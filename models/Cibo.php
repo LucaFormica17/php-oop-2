@@ -1,5 +1,5 @@
 <?php
-    
+
 
     class Cibo extends Prodotti {
         public $flavour;
